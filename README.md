@@ -2,7 +2,7 @@
 
 a [Sails](http://sailsjs.org) application
 
-npm install sails -g
-npm install
-bower install angularSails
-sails lift --dev
+- npm install sails -g
+- npm install
+- bower install angularSails
+- sails lift --dev
